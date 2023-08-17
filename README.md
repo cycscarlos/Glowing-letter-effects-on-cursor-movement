@@ -12,7 +12,7 @@ Este proyecto consiste en una animación dinámica e interactiva cuando se mueve
 
 <br>
 
-Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Glowing-letter-effects-on-movement):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Glowing-letter-effects-on-cursor-movement):
 
 <br>
 
